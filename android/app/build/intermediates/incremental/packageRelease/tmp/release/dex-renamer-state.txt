@@ -1,0 +1,4 @@
+#Wed Aug 14 18:20:58 CEST 2019
+base.0=/home/ialberdi/projects/test/react-native-elements-app/android/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

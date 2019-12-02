@@ -1,0 +1,365 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:1:1-48:12
+MERGED from [:react-native-reanimated] /home/ialberdi/projects/test/react-native-elements-app/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /home/ialberdi/projects/test/react-native-elements-app/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-permissions] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-permissions/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.59.8] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/d4a2d650b4486f9a0d083c639f64f757/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/06c0cdfdd752dbf2a647ec24912a70cd/AndroidManifest.xml:17:1-22:12
+MERGED from [:unimodules-react-native-adapter] /home/ialberdi/projects/test/react-native-elements-app/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-app-loader-provider] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-constants] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-constants/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:expo-file-system] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-30:12
+MERGED from [:expo-font] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-font/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-barcode-scanner-interface] /home/ialberdi/projects/test/react-native-elements-app/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-camera-interface] /home/ialberdi/projects/test/react-native-elements-app/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-constants-interface] /home/ialberdi/projects/test/react-native-elements-app/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-face-detector-interface] /home/ialberdi/projects/test/react-native-elements-app/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-file-system-interface] /home/ialberdi/projects/test/react-native-elements-app/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-font-interface] /home/ialberdi/projects/test/react-native-elements-app/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-permissions-interface] /home/ialberdi/projects/test/react-native-elements-app/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-task-manager-interface] /home/ialberdi/projects/test/react-native-elements-app/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-core] /home/ialberdi/projects/test/react-native-elements-app/node_modules/@unimodules/core/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-image-loader-interface] /home/ialberdi/projects/test/react-native-elements-app/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:unimodules-sensors-interface] /home/ialberdi/projects/test/react-native-elements-app/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/430e63f248fedaded06d43b92064fa65/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/dfe1ea73e622695e9044e65a423ec848/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-v4:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/90e0052654f9c3b839d2918fccbb3eed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f95c89c364b71f349ab2ba385eeb03fc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/eb7c119011eb47a213e400bb9d04af9a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c84c50f3691d918810051dd3937e914e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/4f4f8f8e50fad28593fcf2b3aba7f558/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/dc6fb8901eaaf98d5436d433f38dbae6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b52b1257ed971c4b4c0d91761646375f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/545fb57f6a476bae953669a0795043e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/49e57ff4d5e7e434a36da9c359a71a05/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/f2c8727d33334ad67fff0b3be52c3adb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/d4ad7242df41fe9c6b56ea7996eb5a59/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/6f4c9dd75a049652194e23798aeddeb7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/786915a28893b15a7a3293426fef5de7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c606842e257cf6c7a87a98fd597c80ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/69ac6a1b475fee887b446b82db939099/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c2e7036f98ee7954c1249ec8ba9a0cd0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8b0c178085ed9874a49d50e74723c823/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/fc2c675f55d97dcdbbe3496cdfd650fd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/15e530fd71d274010e6a94f305f9779e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8420ad972a75496bfe76699b9ae294b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/1ad859c52fefa67f2cc11e6d64cb20ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/57b8465bdc3249d49cae16cec517360d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ab3ccbfc3e0acdd1c032153877662791/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/a1aab0856967ab4cf3a848fddd5471cd/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d25667d7dcd6de6992c3fecd138f631c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3bd7fb7bbbe8edf33bfa21e7e508e180/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8e3674d1b57a02a4b98d0457b4f85aeb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/3178abca494c6a8fdea239270314b45c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/afd86e66723207bd17e137a0b5ce7bad/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/d61b5796d2efdf42e20b1d313c81bedf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/ea7c1a1c66e1d06b3df558ef1d1020cc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/884bc878b2adc2e19f966da34a087d38/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/1fed7d75173d800d4c4fdedd4ec986d5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/d7cf687f914dabfcc2d22873da0853ba/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/ceb38a0564b5b0ca7496bd80d1b06740/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:1:1-48:12
+INJECTED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:1:1-48:12
+	package
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:2:5-25
+		INJECTED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:1:1-48:12
+		INJECTED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:expo-file-system] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-67
+MERGED from [:expo-file-system] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:11:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:12:22-63
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:13:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:16:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:18:22-62
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:19:5-72
+	android:name
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:19:22-69
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:20:5-72
+	android:name
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:20:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:21:22-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:22:5-80
+MERGED from [:expo-file-system] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-80
+MERGED from [:expo-file-system] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:22:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:23:5-71
+	android:name
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:23:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:24:5-81
+MERGED from [:expo-file-system] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-81
+MERGED from [:expo-file-system] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:24:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:25:5-73
+	android:name
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:25:22-70
+application
+ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:28:5-46:19
+MERGED from [com.facebook.react:react-native:0.59.8] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/d4a2d650b4486f9a0d083c639f64f757/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.8] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/d4a2d650b4486f9a0d083c639f64f757/AndroidManifest.xml:11:5-20
+MERGED from [:expo-file-system] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:5-28:19
+MERGED from [:expo-file-system] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:5-28:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/dfe1ea73e622695e9044e65a423ec848/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/dfe1ea73e622695e9044e65a423ec848/AndroidManifest.xml:10:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c2e7036f98ee7954c1249ec8ba9a0cd0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c2e7036f98ee7954c1249ec8ba9a0cd0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8b0c178085ed9874a49d50e74723c823/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8b0c178085ed9874a49d50e74723c823/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/a1aab0856967ab4cf3a848fddd5471cd/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/a1aab0856967ab4cf3a848fddd5471cd/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/d7cf687f914dabfcc2d22873da0853ba/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/d7cf687f914dabfcc2d22873da0853ba/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c2e7036f98ee7954c1249ec8ba9a0cd0/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:30:7-39
+	android:roundIcon
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:32:7-52
+	android:icon
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:31:7-41
+	android:allowBackup
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:33:7-34
+	android:theme
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:34:7-38
+	android:name
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:29:7-38
+activity#com.beat81.MainActivity
+ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:35:7-44:18
+	android:label
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:37:9-41
+	android:windowSoftInputMode
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:39:9-51
+	android:configChanges
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:38:9-79
+	android:name
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:36:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:40:9-43:25
+action#android.intent.action.MAIN
+ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:41:13-65
+	android:name
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:41:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:42:13-73
+	android:name
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:42:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:45:7-84
+	android:name
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml:45:17-81
+uses-sdk
+INJECTED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-reanimated] /home/ialberdi/projects/test/react-native-elements-app/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/ialberdi/projects/test/react-native-elements-app/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/ialberdi/projects/test/react-native-elements-app/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/ialberdi/projects/test/react-native-elements-app/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-permissions/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-permissions] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-permissions/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.8] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/d4a2d650b4486f9a0d083c639f64f757/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.8] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/d4a2d650b4486f9a0d083c639f64f757/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/06c0cdfdd752dbf2a647ec24912a70cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/06c0cdfdd752dbf2a647ec24912a70cd/AndroidManifest.xml:20:5-44
+MERGED from [:unimodules-react-native-adapter] /home/ialberdi/projects/test/react-native-elements-app/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-react-native-adapter] /home/ialberdi/projects/test/react-native-elements-app/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-app-loader-provider] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-app-loader-provider/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-constants/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-constants] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-constants/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-file-system] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-file-system] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
+MERGED from [:expo-font] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-font/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:expo-font] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-font/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /home/ialberdi/projects/test/react-native-elements-app/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-barcode-scanner-interface] /home/ialberdi/projects/test/react-native-elements-app/node_modules/unimodules-barcode-scanner-interface/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /home/ialberdi/projects/test/react-native-elements-app/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-camera-interface] /home/ialberdi/projects/test/react-native-elements-app/node_modules/unimodules-camera-interface/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /home/ialberdi/projects/test/react-native-elements-app/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-constants-interface] /home/ialberdi/projects/test/react-native-elements-app/node_modules/unimodules-constants-interface/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /home/ialberdi/projects/test/react-native-elements-app/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-face-detector-interface] /home/ialberdi/projects/test/react-native-elements-app/node_modules/unimodules-face-detector-interface/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /home/ialberdi/projects/test/react-native-elements-app/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-file-system-interface] /home/ialberdi/projects/test/react-native-elements-app/node_modules/unimodules-file-system-interface/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /home/ialberdi/projects/test/react-native-elements-app/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-font-interface] /home/ialberdi/projects/test/react-native-elements-app/node_modules/unimodules-font-interface/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /home/ialberdi/projects/test/react-native-elements-app/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-permissions-interface] /home/ialberdi/projects/test/react-native-elements-app/node_modules/unimodules-permissions-interface/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /home/ialberdi/projects/test/react-native-elements-app/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-task-manager-interface] /home/ialberdi/projects/test/react-native-elements-app/node_modules/unimodules-task-manager-interface/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /home/ialberdi/projects/test/react-native-elements-app/node_modules/@unimodules/core/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-core] /home/ialberdi/projects/test/react-native-elements-app/node_modules/@unimodules/core/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /home/ialberdi/projects/test/react-native-elements-app/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-image-loader-interface] /home/ialberdi/projects/test/react-native-elements-app/node_modules/unimodules-image-loader-interface/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /home/ialberdi/projects/test/react-native-elements-app/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:unimodules-sensors-interface] /home/ialberdi/projects/test/react-native-elements-app/node_modules/unimodules-sensors-interface/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:transition:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/430e63f248fedaded06d43b92064fa65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/430e63f248fedaded06d43b92064fa65/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/dfe1ea73e622695e9044e65a423ec848/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/glide-4.9.0.aar/dfe1ea73e622695e9044e65a423ec848/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v4:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/90e0052654f9c3b839d2918fccbb3eed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/90e0052654f9c3b839d2918fccbb3eed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f95c89c364b71f349ab2ba385eeb03fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f95c89c364b71f349ab2ba385eeb03fc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/eb7c119011eb47a213e400bb9d04af9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/eb7c119011eb47a213e400bb9d04af9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c84c50f3691d918810051dd3937e914e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c84c50f3691d918810051dd3937e914e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/4f4f8f8e50fad28593fcf2b3aba7f558/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/4f4f8f8e50fad28593fcf2b3aba7f558/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/dc6fb8901eaaf98d5436d433f38dbae6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/dc6fb8901eaaf98d5436d433f38dbae6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b52b1257ed971c4b4c0d91761646375f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/b52b1257ed971c4b4c0d91761646375f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/545fb57f6a476bae953669a0795043e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/545fb57f6a476bae953669a0795043e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/49e57ff4d5e7e434a36da9c359a71a05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/49e57ff4d5e7e434a36da9c359a71a05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/f2c8727d33334ad67fff0b3be52c3adb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/f2c8727d33334ad67fff0b3be52c3adb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/d4ad7242df41fe9c6b56ea7996eb5a59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/d4ad7242df41fe9c6b56ea7996eb5a59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/6f4c9dd75a049652194e23798aeddeb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/6f4c9dd75a049652194e23798aeddeb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/786915a28893b15a7a3293426fef5de7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/786915a28893b15a7a3293426fef5de7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c606842e257cf6c7a87a98fd597c80ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c606842e257cf6c7a87a98fd597c80ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/69ac6a1b475fee887b446b82db939099/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/69ac6a1b475fee887b446b82db939099/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c2e7036f98ee7954c1249ec8ba9a0cd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/c2e7036f98ee7954c1249ec8ba9a0cd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8b0c178085ed9874a49d50e74723c823/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8b0c178085ed9874a49d50e74723c823/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/fc2c675f55d97dcdbbe3496cdfd650fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/fc2c675f55d97dcdbbe3496cdfd650fd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/15e530fd71d274010e6a94f305f9779e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/15e530fd71d274010e6a94f305f9779e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8420ad972a75496bfe76699b9ae294b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/8420ad972a75496bfe76699b9ae294b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/1ad859c52fefa67f2cc11e6d64cb20ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/1ad859c52fefa67f2cc11e6d64cb20ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/57b8465bdc3249d49cae16cec517360d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/57b8465bdc3249d49cae16cec517360d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ab3ccbfc3e0acdd1c032153877662791/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/ab3ccbfc3e0acdd1c032153877662791/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/a1aab0856967ab4cf3a848fddd5471cd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.9.0.aar/a1aab0856967ab4cf3a848fddd5471cd/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d25667d7dcd6de6992c3fecd138f631c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d25667d7dcd6de6992c3fecd138f631c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3bd7fb7bbbe8edf33bfa21e7e508e180/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/3bd7fb7bbbe8edf33bfa21e7e508e180/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8e3674d1b57a02a4b98d0457b4f85aeb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8e3674d1b57a02a4b98d0457b4f85aeb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/3178abca494c6a8fdea239270314b45c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/3178abca494c6a8fdea239270314b45c/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/afd86e66723207bd17e137a0b5ce7bad/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/afd86e66723207bd17e137a0b5ce7bad/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/d61b5796d2efdf42e20b1d313c81bedf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/d61b5796d2efdf42e20b1d313c81bedf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/ea7c1a1c66e1d06b3df558ef1d1020cc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/ea7c1a1c66e1d06b3df558ef1d1020cc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/884bc878b2adc2e19f966da34a087d38/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/884bc878b2adc2e19f966da34a087d38/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/1fed7d75173d800d4c4fdedd4ec986d5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/1fed7d75173d800d4c4fdedd4ec986d5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/d7cf687f914dabfcc2d22873da0853ba/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/d7cf687f914dabfcc2d22873da0853ba/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/ceb38a0564b5b0ca7496bd80d1b06740/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/ialberdi/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/ceb38a0564b5b0ca7496bd80d1b06740/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ialberdi/projects/test/react-native-elements-app/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.STORAGE
+ADDED from [:expo-file-system] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from [:expo-file-system] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:22-63
+provider#expo.modules.filesystem.FileSystemFileProvider
+ADDED from [:expo-file-system] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:9-27:20
+	android:grantUriPermissions
+		ADDED from [:expo-file-system] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/release/AndroidManifest.xml:22:13-47
+	android:authorities
+		ADDED from [:expo-file-system] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/release/AndroidManifest.xml:20:13-74
+	android:exported
+		ADDED from [:expo-file-system] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/release/AndroidManifest.xml:21:13-37
+	tools:replace
+		ADDED from [:expo-file-system] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/release/AndroidManifest.xml:23:13-48
+	android:name
+		ADDED from [:expo-file-system] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:13-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:expo-file-system] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/release/AndroidManifest.xml:24:13-26:70
+	android:resource
+		ADDED from [:expo-file-system] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/release/AndroidManifest.xml:26:17-67
+	android:name
+		ADDED from [:expo-file-system] /home/ialberdi/projects/test/react-native-elements-app/node_modules/expo-file-system/android/build/intermediates/library_manifest/release/AndroidManifest.xml:25:17-67
